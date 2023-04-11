@@ -1,0 +1,3 @@
+[submodule "packages/husky_issue_package"]
+	path = packages/husky_issue_package
+	url = https://github.com/thomasnti/husky-issue-package
